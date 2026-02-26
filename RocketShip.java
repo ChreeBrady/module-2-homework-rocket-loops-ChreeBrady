@@ -1,7 +1,7 @@
 // Chretien Brady
 // CPW 140
 // Assignment #2
-//
+// trying to commit so just adding some text
 // This program will make a rocket ship based on the inputted Rocket size integer.
 
 public class RocketShip {
