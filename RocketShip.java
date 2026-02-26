@@ -14,7 +14,7 @@ public class RocketShip {
     }
 
     /**
-     Print the nozzle at the bottom of the rocket.
+     Print the nozzle at the bottom of the rocket. 
      This reuses the pattern of the nose cone.
      */
     public static void printNozzle() {
